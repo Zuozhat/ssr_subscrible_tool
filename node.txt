@@ -1,1 +1,1 @@
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6NmQ2Njk2NjctNGM4NC0zY2NkLTg3YzktNjVmM2I4ZTUyZDA2QGhrMDItdm01LWIuaWt1dXUuY2FzYTo0NTE?remarks=V5-%E4%BA%AC%E6%B8%AF2-NF&obfsParam=bgp-01-02.chinasnow.net&path=/hls/cctv5phd.m3u8&obfs=websocket
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6NmQ2Njk2NjctNGM4NC0zY2NkLTg3YzktNjVmM2I4ZTUyZDA2QGpwMDEtdm01LWIuaWt1dXUuY2FzYTo0NDg?remarks=V5-%E4%BA%AC%E6%97%A51-NF&obfsParam=bgp-02-01.chinasnow.net&path=/hls/cctv5phd.m3u8&obfs=websocket
